@@ -1,2 +1,2 @@
 #Demo
- Description- just learning how git works.
+ Description- just learning how git and github works.
